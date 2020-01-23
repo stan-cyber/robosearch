@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stan-cyber/robosearch/static/css/main.5448a464.chunk.css",
+    "main.js": "/stan-cyber/robosearch/static/js/main.f910ceb8.chunk.js",
+    "main.js.map": "/stan-cyber/robosearch/static/js/main.f910ceb8.chunk.js.map",
+    "runtime-main.js": "/stan-cyber/robosearch/static/js/runtime-main.4b2cf512.js",
+    "runtime-main.js.map": "/stan-cyber/robosearch/static/js/runtime-main.4b2cf512.js.map",
+    "static/css/2.19dd4d8c.chunk.css": "/stan-cyber/robosearch/static/css/2.19dd4d8c.chunk.css",
+    "static/js/2.ac4ba201.chunk.js": "/stan-cyber/robosearch/static/js/2.ac4ba201.chunk.js",
+    "static/js/2.ac4ba201.chunk.js.map": "/stan-cyber/robosearch/static/js/2.ac4ba201.chunk.js.map",
+    "index.html": "/stan-cyber/robosearch/index.html",
+    "precache-manifest.2972b651ed29651b10739416da2e2308.js": "/stan-cyber/robosearch/precache-manifest.2972b651ed29651b10739416da2e2308.js",
+    "service-worker.js": "/stan-cyber/robosearch/service-worker.js",
+    "static/css/2.19dd4d8c.chunk.css.map": "/stan-cyber/robosearch/static/css/2.19dd4d8c.chunk.css.map",
+    "static/css/main.5448a464.chunk.css.map": "/stan-cyber/robosearch/static/css/main.5448a464.chunk.css.map",
+    "static/js/2.ac4ba201.chunk.js.LICENSE": "/stan-cyber/robosearch/static/js/2.ac4ba201.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b2cf512.js",
+    "static/css/2.19dd4d8c.chunk.css",
+    "static/js/2.ac4ba201.chunk.js",
+    "static/css/main.5448a464.chunk.css",
+    "static/js/main.f910ceb8.chunk.js"
+  ]
+}
